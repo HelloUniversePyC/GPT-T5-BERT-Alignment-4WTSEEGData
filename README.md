@@ -103,7 +103,7 @@ python3 diagnostic.py
 - [Alliyah Steele](https://github.com/HelloUniversePyC/)
 
 ## File Structure
-├── __pycache__
+```├── __pycache__
 ├── helpers
 │   └── __pycache__
 └── results_objs
@@ -112,4 +112,4 @@ python3 diagnostic.py
     ├── GS
     ├── NGNS
     ├── overall
-    └── v
+    └── v```
