@@ -1,0 +1,21 @@
+{
+  "n_permutations": 1000,
+  "use_adaptive": true,
+  "within_subject_fdr": true,
+  "region_column": "parcLabel",
+  "subjects": [
+    1,
+    8,
+    12,
+    5,
+    9,
+    4,
+    13,
+    15
+  ],
+  "n_total_tests": 11592,
+  "n_significant": 0,
+  "pct_significant": 0.0,
+  "mean_r2_significant": 0,
+  "n_unique_significant_regions": 0
+}

@@ -1,0 +1,4 @@
+method,n_significant,pct_significant,description
+Uncorrected (p < 0.05),4387,5.052284871936613,No correction - expect 5% false positives
+Bonferroni,0,0.0,Most conservative - controls family-wise error rate
+FDR (Pooled),0,0.0,Maximum power - all subjects pooled

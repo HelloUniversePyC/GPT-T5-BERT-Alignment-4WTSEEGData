@@ -1,0 +1,7 @@
+{
+  "total_electrodes": 292,
+  "bonferroni_alpha_sqrt": 0.0029260286799032646,
+  "bonferroni_alpha_standard": 0.00017123287671232877,
+  "n_significant": 292,
+  "n_samples": 150
+}

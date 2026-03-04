@@ -1,0 +1,9 @@
+{
+  "n_permutations": 10000,
+  "n_total_regions": 2736,
+  "n_significant": 0,
+  "pct_significant": 0.0,
+  "mean_r2_significant": 0,
+  "unique_regions": 26,
+  "unique_subjects": 3
+}

@@ -1,0 +1,4 @@
+Subject,N (High-perf),N (All),Mean (High-perf),Mean (All),Difference,Cohen's d,Mann-Whitney p,t-test p,Permutation p,Significant?
+1,14,1980,0.1677,-4.4830,4.6508,0.072,0.0000,0.3945,0.0001,Yes ***
+8,12,1260,0.1549,-0.1803,0.3352,0.396,0.0000,0.0863,0.0001,Yes ***
+12,12,1404,0.1671,-2.9149,3.0820,0.060,0.0000,0.4175,0.0001,Yes ***
